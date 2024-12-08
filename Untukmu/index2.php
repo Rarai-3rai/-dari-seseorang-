@@ -14,7 +14,7 @@ Instagram: deka_tutorial
   </div>
   <div>
     <img src="stiker" />
-    <p>Kalimat 2< Untukmu semoga sehat selalu yaa dan juga panjang umur.
+    <p>Kalimat 2< Untukmu Semoga sehat selalu yaa dan juga panjang umur.
                   Ciee yang umurnya dah tua nih,semoga segala yang diinginkan terkabul yakk.
                   Aku selalu doain yang terbaik buat kamuu. I LOVE YOUU>
   </div>
