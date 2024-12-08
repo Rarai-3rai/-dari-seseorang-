@@ -10,15 +10,19 @@ Instagram: deka_tutorial
 
   <div>
     <img src="stiker" />
-    <p>Kalimat 1</p>
+    <p>Kalimat 1< Dear SELAMAT ULANG TAHUN CHRISYE PACARKU>
   </div>
   <div>
     <img src="stiker" />
-    <p>Kalimat 2</p>
+    <p>Kalimat 2< Untukmu semoga sehat selalu yaa dan juga panjang umur.
+                  Ciee yang umurnya dah tua nih,semoga segala yang diinginkan terkabul yakk.
+                  Aku selalu doain yang terbaik buat kamuu. I LOVE YOUU>
   </div>
   <div>
     <img src="stiker" />
-    <p>Kalimat 3</p>
+    <p>Kalimat 3<NOTE: Maaf ya cuman ini yg bisa aku kasih buat kamu ultah kamu ny jauh sihh.
+                  Bikin website gini pusingg sih tpi gpp hadiah buat kamu hhe
+                  Pokoknya I love youu dan HBD sayanggg>
   </div>
 
 <div></div></div></div></div><script>
